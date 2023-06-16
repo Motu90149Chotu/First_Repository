@@ -1,0 +1,2 @@
+stash example
+S1 branch created
